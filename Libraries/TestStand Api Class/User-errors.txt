@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+<nifamily familyname="TS-API-Class" displayname="5000-5100">
+</nifamily>
+</nicomment>
+<nierror code="5000">
+Config not selected, you try to start app manager without selecting a config. Please first select a config using the Config VI
+</nierror>
+<nierror code="5001">
+
+</nierror>
+</nidocument>
